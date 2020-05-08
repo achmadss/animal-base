@@ -1,0 +1,28 @@
+﻿{
+  "mammals": [
+    {
+      "id": "1",
+      "name": "African Lion",
+      "family": "Felidae",
+      "genus": "Pantera",
+      "species": "Pantera Leo",
+      "habitat": "Sub-saharan Africa",
+      "photo": "https://animal-base.herokuapp.com/images/category/mammals/african-lion.jpg",
+      "map": "https://animal-base.herokuapp.com/geojson/mammals/african-lion.json",
+      "description": "African lions have been admired throughout history for as symbols of courage and strength. These iconic animals have powerful bodies—in the cat family, they’re second in size only to tigers—and roars that can be heard from five miles away. An adult lion’s coat is yellow-gold, and juveniles have some light spots that disappear with age. Only male lions typically boast manes, the impressive fringe of long hair that encircles their heads."
+    }
+  ],
+  "birds": [
+    {
+      "id": "6",
+      "name": "Bald Eagle",
+      "family": "Accipitridae",
+      "genus": "Haliaeetus",
+      "species": "Haliaeetus leucocephalus",
+      "habitat": "North America",
+      "photo": "https://animal-base.herokuapp.com/images/category/birds/bald-eagle.jpg",
+      "map": "https://animal-base.herokuapp.com/geojson/birds/bald-eagle.json",
+      "description": "The bald eagle, with its snowy-feathered (not bald) head and white tail, is the proud national bird symbol of the United States. Though their numbers have grown in much of their range, bald eagles remain most abundant in Alaska and Canada. These powerful birds of prey use their talons to fish, but they get many of their meals by scavenging carrion or stealing the kills of other animals."
+    }
+  ]
+}
