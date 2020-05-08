@@ -1,6 +1,6 @@
 ﻿{
-  "animals": {
-    "mammals": [
+  "mammals": {
+    "lion": [
       {
         "id": "1",
         "name": "African Lion",
