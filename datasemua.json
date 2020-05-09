@@ -11,6 +11,50 @@
         "photo": "https://animal-base.herokuapp.com/images/category/mammals/african-lion.jpg",
         "map": "https://animal-base.herokuapp.com/geojson/mammals/african-lion.json",
         "description": "African lions have been admired throughout history for as symbols of courage and strength. These iconic animals have powerful bodies—in the cat family, they’re second in size only to tigers—and roars that can be heard from five miles away. An adult lion’s coat is yellow-gold, and juveniles have some light spots that disappear with age. Only male lions typically boast manes, the impressive fringe of long hair that encircles their heads."
+      },
+      {
+        "id": "2",
+        "name": "Giant Panda",
+        "family": "Ursidae",
+        "genus": "Ailuropoda",
+        "species": "Ailuropoda melanoleuca",
+        "habitat": "Central China",
+        "photo": "https://animal-base.herokuapp.com/images/category/mammals/giant-panda.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/mammals/giant-panda.json",
+        "description": "The giant panda has an insatiable appetite for bamboo. It takes 28 pounds of bamboo to satisfy a giant panda's daily dietary needs, and it hungrily plucks the stalks with elongated wrist bones that function rather like thumbs. Wild pandas live only in remote, mountainous regions in central China. These high bamboo forests are cool and wet—just as pandas like it. They may climb as high as 13,000 feet to feed on higher slopes in the summer season. Pandas are often seen eating in a relaxed sitting posture, with their hind legs stretched out before them. They may appear sedentary, but they are skilled tree-climbers and efficient swimmers."
+      },
+      {
+        "id": "3",
+        "name": "Blue Whale",
+        "family": "Balaenopteridae",
+        "genus": "Balaenoptera",
+        "species": "Balaenoptera musculus",
+        "habitat": "World-wide",
+        "photo": "https://animal-base.herokuapp.com/images/category/mammals/blue-whale.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/mammals/blue-whale.geojson",
+        "description": "Blue whales are the largest animals ever known to have lived on Earth. These magnificent marine mammals rule the oceans at up to 100 feet long and upwards of 200 tons. Their tongues alone can weigh as much as an elephant. Their hearts, as much as an automobile."
+      },
+      {
+        "id": "4",
+        "name": "Arabian Camel",
+        "family": "Camelidae",
+        "genus": "Camelus",
+        "species": "Camelus Dromedarius",
+        "habitat": "Middle East, Saharan Africa, Australia",
+        "photo": "https://animal-base.herokuapp.com/images/category/mammals/arabian-camel.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/mammals/arabian-camel.json",
+        "description": "Arabian camels, also known as dromedaries, have only one hump, but they employ it to great effect. The hump stores up to 80 pounds of fat, which a camel can break down into water and energy when sustenance is not available. These humps give camels their legendary ability to travel up to 100 desert miles without water. Other adaptations help dromedaries thrive in desert conditions. Their nostrils close to keep sand at bay, and they have bushy eyebrows and two rows of long eyelashes to protect their eyes. Large, tough lips enable them to pick at dry and thorny desert vegetation. Big, thick footpads help them navigate the rough rocky terrain and shifting desert sands."
+      },
+      {
+        "id": "5",
+        "name": "African Elephant",
+        "family": "Elephantidae",
+        "genus": "Loxodonta",
+        "species": "Loxodonta Africana",
+        "habitat": "Central Africa",
+        "photo": "https://animal-base.herokuapp.com/images/category/mammals/african-elephant.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/mammals/african-elephant.json",
+        "description": "African elephants are a keystone species, meaning they play a critical role in their ecosystem. Also known as ecosystem engineers, elephants shape their habitat in many ways. During the dry season, they use their tusks to dig up dry riverbeds and create watering holes many animals can drink from. Their dung is full of seeds, helping plants spread across the environment—and it makes pretty good habitat for dung beetles too! In the forest, their feasting on trees and shrubs creates pathways for smaller animals to move through, and in the savanna, they uproot trees and eat saplings, which helps keep the landscape open for zebras and other plains animals to thrive."
       }
     ],
     "birds": [
@@ -24,6 +68,278 @@
         "photo": "https://animal-base.herokuapp.com/images/category/birds/bald-eagle.jpg",
         "map": "https://animal-base.herokuapp.com/geojson/birds/bald-eagle.json",
         "description": "The bald eagle, with its snowy-feathered (not bald) head and white tail, is the proud national bird symbol of the United States. Though their numbers have grown in much of their range, bald eagles remain most abundant in Alaska and Canada. These powerful birds of prey use their talons to fish, but they get many of their meals by scavenging carrion or stealing the kills of other animals."
+      },
+      {
+        "id": "7",
+        "name": "Snowy owl",
+        "family": "Strigidae",
+        "genus": "Bubo",
+        "species": "Bubo scandiacuss",
+        "habitat": "Alaska, Northern Canada, and Eurosiberia",
+        "photo": "https://animal-base.herokuapp.com/images/category/birds/snowy-owl.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/birds/snowy-owl.json",
+        "description": "The ghostlike snowy owl has unmistakable white plumage that echoes its Arctic origins. Young owls, especially males, get whiter as they get older. Females are darker than males, with dusky spotting, and never become totally white. Some elderly males do become completely white, though many retain small flecks of dusky plumage. The snowy owl is a patient hunter that perches and waits to identify its prey before soaring off in pursuit. Snowy owls have keen eyesight and great hearing, which can help them find prey that is invisible under thick vegetation or snowcover."
+      },
+      {
+        "id": "8",
+        "name": "Sulphur-crested cockatoo",
+        "family": "Cacatuidae",
+        "genus": "Cacatua",
+        "species": "Cacatua galerita ",
+        "habitat": "Australia, Indonesia",
+        "photo": "https://animal-base.herokuapp.com/images/category/birds/sulphur-crested-cockatoo.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/birds/sulphur-crested-cockatoo.json",
+        "description": "The sulphur-crested cockatoo is a relatively large white cockatoo found in wooded habitats in Australia, and New Guinea and some of the islands of Indonesia. Sulphur-crested cockatoos' distinctive raucous calls can be very loud, which is a result of an adaption in order to travel through the forest environments in which they live, including tropical and subtropical rainforests. These birds are naturally curious, as well as very intelligent."
+      },
+      {
+        "id": "9",
+        "name": "Californian Condor",
+        "family": "Cathartidae",
+        "genus": "Gymnogyps",
+        "species": "Gymnogyps californianus",
+        "habitat": "California, Arizona",
+        "photo": "https://animal-base.herokuapp.com/images/category/birds/californian-condor.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/birds/californian-condor.json",
+        "description": "The California condor is the largest flying bird in North America. Its wings may stretch nearly 10 feet from tip to tip. Like other vultures, condors are scavengers that feast on the carcasses of large mammals, such as cattle and deer. When a big meal is available, the birds may gorge themselves so much that they must rest for several hours before flying again."
+      },
+      {
+        "id": "10",
+        "name": "Pileated woodpecker",
+        "family": "Picidae",
+        "genus": "Dryocopus",
+        "species": "Dryocopus pileatus",
+        "habitat": "North America",
+        "photo": "https://animal-base.herokuapp.com/images/category/birds/pileated-woodpecker.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/birds/pileated-woodpecker.json",
+        "description": "Pileated woodpeckers are the largest of the common woodpeckers found in most of North America. These crow-sized birds present a memorable sight with their zebra-striped heads and necks, long bills, and distinctive red crests. Pileated woodpeckers forage for their favorite meal, carpenter ants, by digging large, rectangular holes in trees. These holes can be so large that they weaken smaller trees or even cause them to break in half. Other birds are often attracted to these large openings, eager to access any exposed insects."
+      }
+    ],
+    "fish": [
+      {
+        "id": "11",
+        "name": "Great White Sharke",
+        "family": "Lamnidae",
+        "genus": "Carcharodon",
+        "species": "Carcharodon carcharias",
+        "habitat": "Warm water Oceans",
+        "photo": "https://animal-base.herokuapp.com/images/category/fish/great-white-shark.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/fish/great-white-shark.geojson",
+        "description": "Great whites are the largest predatory fish on Earth. They have slate-gray upper bodies to blend in with the rocky coastal sea floor, but get their name from their universally white underbellies. They are streamlined, torpedo-shaped swimmers with powerful tails that can propel them through the water at speeds of up to 15 miles per hour. They can even leave the water completely, breaching like whales when attacking prey from underneath. Highly adapted predators, their mouths are lined with up to 300 serrated, triangular teeth arranged in several rows, and they have an exceptional sense of smell to detect prey. They even have organs that can sense the tiny electromagnetic fields generated by animals. Their main prey items include sea lions, seals, small toothed whales, and even sea turtles, and carrion."
+      },
+      {
+        "id": "12",
+        "name": "Manta Ray",
+        "family": "Myliobatidae",
+        "genus": "Manta",
+        "species": "Manta birostris",
+        "habitat": "Warm water Oceans",
+        "photo": "https://animal-base.herokuapp.com/images/category/fish/manta-ray.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/fish/manta-ray.geojson",
+        "description": "The sea creatures live in tropical, subtropical, and temperate ocean waters across the globe. “Manta” means blanket or cloak in Spanish, describing the look of the animals’ large, flat, diamond-shaped bodies, which are characterized by triangular pectoral fins. Manta rays are filter feeders: they swim with their mouths wide open, drawing in zooplankton and krill, which they sift through rows of tiny rakes that line their mouths called gill plates. Manta rays have the largest brain-to-size ratio of any cold-blooded fish."
+      },
+      {
+        "id": "13",
+        "name": "Spiny Seahorse",
+        "family": "Syngnathidae",
+        "genus": "Hippocampus",
+        "species": "Hippocampus histrix",
+        "habitat": "Indo-Pasific",
+        "photo": "https://animal-base.herokuapp.com/images/category/fish/spiny-seahorse.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/fish/spiny-seahorsek.geojson",
+        "description": "Seahorses are truly unique, and not just because of their unusual equine shape. Unlike most other fish, they are monogamous and mate for life. Rarer still, they are among the only animal species on Earth in which the male bears the unborn young. Male seahorses are equipped with a brood pouch on their ventral, or front-facing, side. When mating, the female deposits her eggs into his pouch, and the male fertilizes them internally. He carries the eggs in his pouch until they hatch, then releases fully formed, miniature seahorses into the water."
+      },
+      {
+        "id": "14",
+        "name": "Ocellaris Clown Fish",
+        "family": "Pomacentridae",
+        "genus": "Amphiprion",
+        "species": "Amphiprion ocellaris",
+        "habitat": "Pasific",
+        "photo": "https://animal-base.herokuapp.com/images/category/fish/clown-fish.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/fish/occelaris-clown-fish.geojson",
+        "description": "Bright orange with three distinctive white bars, clown anemonefish are among the most recognizable of all reef-dwellers. Clownfish perform an elaborate dance with an anemone before taking up residence, gently touching its tentacles with different parts of their bodies until they are acclimated to their host. A layer of mucus on the clownfish's skin makes it immune to the fish-eating anemone's lethal sting. In exchange for safety from predators and food scraps, the clownfish drives off intruders and preens its host, removing parasites."
+      },
+      {
+        "id": "15",
+        "name": "Mekong Giant Catfish",
+        "family": "Pangasiidae",
+        "genus": "Pangasianodon",
+        "species": "Pangasianodon gigas",
+        "habitat": "Southeast Asia",
+        "photo": "https://animal-base.herokuapp.com/images/category/fish/mekong-giant-catfish.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/fish/mekong-giant-catfish.json",
+        "description": "The Mekong giant catfish is the official freshwater heavyweight champion of the world. According to the Guinness Book of Records, a nine-foot-long individual caught in northern Thailand in 2005 weighted an astounding 646 pounds, making it the largest exclusively freshwater fish ever recorded. The giant catfish lives a tenuous existence in the murky waters of its native river, Southeast Asia’s Mekong, where its numbers have plummeted so dramatically that the species is on the brink of extinction."
+      }
+    ],
+    "reptiles": [
+      {
+        "id": "16",
+        "name": "Komodo Dragon",
+        "family": "Varanidae",
+        "genus": "Varanus",
+        "species": "Varanus komodoensis",
+        "habitat": "Indonesia",
+        "photo": "https://animal-base.herokuapp.com/images/category/reptiles/komodo-dragon.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/reptiles/komodo-dragon.json",
+        "description": "Reaching up to 10 feet in length and more than 300 pounds, Komodo dragons are the heaviest lizards on Earth. They have long, flat heads with rounded snouts, scaly skin, bowed legs, and huge, muscular tails. Komodo dragons have thrived in the harsh climate of Indonesia's Lesser Sunda Islands for millions of years. They prefer the islands’ tropical forests but can be found across the islands. Though these athletic reptiles can walk up to seven miles per day, they prefer to stay close to home—rarely venturing far from the valleys in which they hatched."
+      },
+      {
+        "id": "17",
+        "name": "American Alligator ",
+        "family": "Alligatoridae",
+        "genus": "Alligator",
+        "species": "Alligator mississippiensis",
+        "habitat": "Florida, Louisiana",
+        "photo": "https://animal-base.herokuapp.com/images/category/reptiles/american-aligator.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/reptiles/American-aligator.json",
+        "description": "American alligators reside nearly exclusively in the freshwater rivers, lakes, swamps, and marshes of the southeastern United States, primarily Florida and Louisiana. Adult alligators are apex predators critical to the biodiversity of their habitat. They feed mainly on fish, turtles, snakes, and small mammals. However, they are opportunists, and a hungry gator will eat just about anything, including carrion, pets and, in rare instances, humans."
+      },
+      {
+        "id": "18",
+        "name": "Nile Crocodile",
+        "family": "Crocodylidae",
+        "genus": "Crocodylus",
+        "species": "Crocodylus niloticus",
+        "habitat": "Africa (Nile River), Madagascar",
+        "photo": "https://animal-base.herokuapp.com/images/category/reptiles/nile-crocodile.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/reptiles/nile-crocodile.json",
+        "description": "The Nile crocodile has a somewhat deserved reputation as a vicious man-eater. The diet of the Nile crocodile is mainly fish, but it will attack almost anything unfortunate enough to cross its path, including zebras, small hippos, porcupines, birds, and other crocodiles. It will also scavenge carrion, and can eat up to half its body weight at a feeding."
+      },
+      {
+        "id": "19",
+        "name": "King Cobra",
+        "family": "Elapidae",
+        "genus": "Ophiophagus",
+        "species": "Ophiophagus hannah",
+        "habitat": "South Asia, South East Asia",
+        "photo": "https://animal-base.herokuapp.com/images/category/reptiles/king-cobra.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/reptiles/king-cobra.json",
+        "description": "The king cobra—one of the most venomous snakes on the planet—can literally stand up and look a full-grown person in the eye. When confronted, they can lift up to a third of its body off the ground and still move forward to attack. Fortunately, king cobras are shy and will avoid humans whenever possible. It will also flare out its iconic hood and emit a hiss that sounds almost like a growling dog. King cobras can reach 18 feet in length, making them the longest of all venomous snakesThe Nile crocodile has a somewhat deserved reputation as a vicious man-eater. The diet of the Nile crocodile is mainly fish, but it will attack almost anything unfortunate enough to cross its path, including zebras, small hippos, porcupines, birds, and other crocodiles. It will also scavenge carrion, and can eat up to half its body weight at a feeding."
+      },
+      {
+        "id": "20",
+        "name": "Green Anaconda",
+        "family": "Boidae",
+        "genus": "Eunectes",
+        "species": "Eunectes murinus",
+        "habitat": "Colombia, Venezuela, Ecuador, Peru, Bolivia, Brazil, Trinidad",
+        "photo": "https://animal-base.herokuapp.com/images/category/reptiles/green-anaconda.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/reptiles/green-anaconda.json",
+        "description": "A member of the boa family, South America’s green anaconda is, pound for pound, the largest snake in the world. Its cousin, the reticulated python, can reach slightly greater lengths, but the enormous girth of the anaconda makes it almost twice as heavy. Green anacondas can grow to more than 29 feet, weigh more than 550 pounds, and measure more than 12 inches in diameter. Females are significantly larger than males.  Anacondas live in swamps, marshes, and slow-moving streams, mainly in the tropical rain forests of the Amazon and Orinoco basins. They are cumbersome on land, but stealthy and sleek in the water."
+      }
+    ],
+    "insects": [
+      {
+        "id": "21",
+        "name": "Rhinoceros Beetlea",
+        "family": "Scarabaeidae",
+        "genus": "Trypoxylus",
+        "species": "Trypoxylus dichotomus",
+        "habitat": "Japan, Korea, Taiwan, China",
+        "photo": "https://animal-base.herokuapp.com/images/category/insects/japanese-rhinoceros-beetle.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/insects/japanese-rhinoceros-beetle.json",
+        "description": "In Japanese, rhinoceros beetles are called kabutomushi. Mushi is Japanese for insect, and kabuto is Japanese for helmet, literally referring to the samurai helmet. Allomyrina dichotoma shows a striking sexual dimorphism. The males are much larger, reaching a length of 40–80 mm, while females can reach a length of about 40–60 mm. The long cephalic horn of this species has a characteristic shape in the form of the letter Y and it is used by males during the mating period and to maintain territories. By means of their forked horn they lift other males off the ground and throw them into the air. In addition to their impressive and ornate protuberance they also have a smaller thoracic horn, also forked. The preferred foods are tree saps, fruits and anything sugary."
+      },
+      {
+        "id": "22",
+        "name": "Executioner Wasp",
+        "family": "Vespidae",
+        "genus": "Polistes",
+        "species": "Polistes carnifex",
+        "habitat": "South America, Central America",
+        "photo": ": https://animal-base.herokuapp.com/images/category/insects/executioner-wasp.jpg",
+        "map": ": https://animal-base.herokuapp.com/images/category/insects/executioner-wasp.jpg",
+        "description": "Executioner wasps are known for its extremely painful and potent sting. The wasp is native to Central and South America. It is a very large yellow and brown paper wasp that establishes small colonies which build nests under the eaves of buildings or suspended from branches. Although not a particularly aggressive wasp species, it has garnered a reputation in many Latin American countries for its potent sting."
+      },
+      {
+        "id": "23",
+        "name": "Asiatic Honey Bee",
+        "family": "Apidae",
+        "genus": "Apis",
+        "species": "Apis Cerana",
+        "habitat": "Southern, Southeastern, and Eastern Asia",
+        "photo": "https://animal-base.herokuapp.com/images/category/insects/asiatic-honey-bee.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/insects/asiatic-honey-bee.json",
+        "description": "Apis cerana colonies are known for building nests consisting of multiple combs in cavities containing a small entrance, presumably for defense against invasion by individuals of another nest. The diet of this honey bee species consists mostly of pollen and nectar, or honey. Apis cerana is known for its highly social behavior, reflective of its classification as a type of honey bee. The natural range of Apis cerana extends from Primorsky Krai in Russia in the north, to eastern Indonesia in the south; and to Japan in the east, to as far as the highlands of Afghanistan in the west."
+      },
+      {
+        "id": "24",
+        "name": "Monarch butterflies",
+        "family": "Nymphalidae",
+        "genus": "Danaus",
+        "species": "Danaus Plexippus",
+        "habitat": "North, South America",
+        "photo": "https://animal-base.herokuapp.com/images/category/insects/monarch-butterfly.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/insects/monarch-butterfly.json",
+        "description": "The Monarch butterfly is a milkweed butterfly in the family Nymphalidae. It may be the most familiar North American butterfly, and is considered an iconic pollinator species. Its wings feature an easily recognizable black, orange, and white pattern. The range of the western and eastern populations of D. plexippus plexippus expands and contracts depending upon the season. The range differs between breeding areas, migration routes, and winter roosts. In the Americas, the monarch ranges from southern Canada through northern South America."
+      },
+      {
+        "id": "25",
+        "name": "Bullet Ant",
+        "family": "Formicidae",
+        "genus": "Paraponera",
+        "species": "Paraponera clavata",
+        "habitat": "Nicaragua, Honduras, Paraguay",
+        "photo": "https://animal-base.herokuapp.com/images/category/insects/bullet-ant.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/insects/bullet-ant.json",
+        "description": "Named for its extremely potent sting, Bullet ants inhabits humid lowland rainforests from Nicaragua and the extreme east of Honduras and south to Paraguay. Worker ants are 18–30 mm and resemble stout, reddish-black, wingless wasps. They are not aggressive ants but are vicious when defending the nest, when they produce a stridulating sound and sting with ferocity. The bullet ant's sting is currently the highest on Schmidt's sting pain index, at 4.0+. Some victims compared the pain to that of being shot, hence the name of the insect. It is described as causing waves of burning, throbbing, all-consuming pain that continues unabated for up to 24 hours."
+      }
+    ],
+    "amphibians": [
+      {
+        "id": "26",
+        "name": "Cane Toad",
+        "family": "Bufonidae",
+        "genus": "Rhinella",
+        "species": "Rhinella marina",
+        "habitat": "Central America,  Australia",
+        "photo": "https://animal-base.herokuapp.com/images/category/amphibians/cane-toad.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/amphibian/cane-toad.json",
+        "description": "The much maligned venomous cane toads earned their bad reputation shortly after being released into the Australian ecology in 1935 with the hope that they would control the destructive cane beetle population. They turned out to be failures at controlling beetles, but remarkably successful at reproducing and spreading themselves. Their effects on Australia's ecology include the depletion of native species that die eating cane toads; the poisoning of pets and humans; depletion of native fauna preyed on by cane toads; and reduced prey populations for native insectivores, such as skinks."
+      },
+      {
+        "id": "27",
+        "name": "Fire salamander",
+        "family": "Salamandridae",
+        "genus": "Salamandra",
+        "species": "Salamandra salamandra",
+        "habitat": "Europe",
+        "photo": "https://animal-base.herokuapp.com/images/category/amphibians/fire-salamander.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/amphibian/fire-salamander.json",
+        "description": "The fire salamander is possibly the best-known salamander species in Europe. Fire salamanders live in central Europe forests and are more common in hilly areas. They prefer deciduous forests since they like to hide in fallen leaves and around mossy tree trunks. They need small brooks or ponds with clean water in their habitat for the development of the larvae."
+      },
+      {
+        "id": "28",
+        "name": "American Bullfrog",
+        "family": "Ranidae",
+        "genus": "Lithobates",
+        "species": "Lithobates catesbeianus",
+        "habitat": "North America",
+        "photo": "https://animal-base.herokuapp.com/images/category/amphibians/american-bullfrog.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/amphibian/american-bullfrog.json",
+        "description": "Bullfrogs are typically green or gray-brown with brown spots and have easily identifiable circular eardrums, or tympanum, on either side of their heads. Nocturnal predators, they will ambush and eat just about anything they can fit in their ample mouths, including insects, mice, fish, birds, and snakes. They sit quietly and wait for prey to pass by, then lunge with their powerful hind legs, mouths open wide. Males are highly territorial and will aggressively guard their land. Females are slightly larger than males."
+      },
+      {
+        "id": "29",
+        "name": "Red-eyed treefrog",
+        "family": "Phyllomedusidae",
+        "genus": "Agalychnis",
+        "species": "Agalychnis callidryas",
+        "habitat": "Central America",
+        "photo": "https://animal-base.herokuapp.com/images/category/amphibians/red-eyed-treefrog.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/amphibian/red-eyed-treefrog.json",
+        "description": "These iconic rain-forest amphibians sleep by day stuck to leaf-bottoms with their eyes closed and body markings covered. When disturbed, they flash their bulging red eyes and reveal their huge, webbed orange feet and bright blue-and-yellow flanks. This technique, called startle coloration, may give a bird or snake pause, offering a precious instant for the frog to spring to safety. Their neon-green bodies may play a similar role in thwarting predators. Many of the animals that eat red-eyed tree frogs are nocturnal hunters that use keen eyesight to find prey. The shocking colors of this frog may over-stimulate a predator's eyes, creating a confusing ghost image that remains behind as the frog jumps away."
+      },
+      {
+        "id": "30",
+        "name": "Yellow-banded poison dart frog",
+        "family": "Dendrobatidae",
+        "genus": "Dendrobates",
+        "species": "Dendrobates leucomelas",
+        "habitat": "Venezuela",
+        "photo": "https://animal-base.herokuapp.com/images/category/amphibians/yellow-banded-poison-dart-frog.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/amphibian/yellow-banded-poison-dart-frog.json",
+        "description": "This amphibian is normally found in very humid conditions in tropical rain forests, close to fresh water. It is often found on flat rocks, trees, plants (notably bromeliads), and the leaf litter of the forest floor. During the dry season, specimens are known to congregate in damper places, such as under rocks or fallen tree trunks. The Yellow-banded poison dart frog are diurnal by nature, and are known to be fiercely territorial. They live in small groups in the wild, and will attack neighbouring groups with surprising ferocity for creatures of their size. They will also warn off rivals by emitting loud calls."
       }
     ]
   }
