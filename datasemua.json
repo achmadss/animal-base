@@ -191,7 +191,7 @@
         "species": "Alligator mississippiensis",
         "habitat": "Florida, Louisiana",
         "photo": "https://animal-base.herokuapp.com/images/category/reptiles/american-aligator.jpg",
-        "map": "https://animal-base.herokuapp.com/geojson/reptiles/American-aligator.json",
+        "map": "https://animal-base.herokuapp.com/geojson/reptiles/american-aligator.json",
         "description": "American alligators reside nearly exclusively in the freshwater rivers, lakes, swamps, and marshes of the southeastern United States, primarily Florida and Louisiana. Adult alligators are apex predators critical to the biodiversity of their habitat. They feed mainly on fish, turtles, snakes, and small mammals. However, they are opportunists, and a hungry gator will eat just about anything, including carrion, pets and, in rare instances, humans."
       },
       {
