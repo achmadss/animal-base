@@ -156,7 +156,7 @@
         "species": "Amphiprion ocellaris",
         "habitat": "Pasific",
         "photo": "https://animal-base.herokuapp.com/images/category/fish/clown-fish.jpg",
-        "map": "https://animal-base.herokuapp.com/geojson/fish/occelaris-clown-fish.geojson",
+        "map": "https://animal-base.herokuapp.com/geojson/fish/clown-fish.geojson",
         "description": "Bright orange with three distinctive white bars, clown anemonefish are among the most recognizable of all reef-dwellers. Clownfish perform an elaborate dance with an anemone before taking up residence, gently touching its tentacles with different parts of their bodies until they are acclimated to their host. A layer of mucus on the clownfish's skin makes it immune to the fish-eating anemone's lethal sting. In exchange for safety from predators and food scraps, the clownfish drives off intruders and preens its host, removing parasites."
       },
       {
