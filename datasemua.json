@@ -117,7 +117,7 @@
     "fish": [
       {
         "id": "11",
-        "name": "Great White Sharke",
+        "name": "Great White Shark",
         "family": "Lamnidae",
         "genus": "Carcharodon",
         "species": "Carcharodon carcharias",
@@ -166,7 +166,7 @@
         "genus": "Pangasianodon",
         "species": "Pangasianodon gigas",
         "habitat": "Southeast Asia",
-        "photo": "https://animal-base.herokuapp.com/images/category/fish/mekong-giant-catfish.jpg",
+        "photo": "https://animal-base.herokuapp.com/images/category/fish/giant-mekong-catfish.jpg",
         "map": "https://animal-base.herokuapp.com/geojson/fish/mekong-giant-catfish.json",
         "description": "The Mekong giant catfish is the official freshwater heavyweight champion of the world. According to the Guinness Book of Records, a nine-foot-long individual caught in northern Thailand in 2005 weighted an astounding 646 pounds, making it the largest exclusively freshwater fish ever recorded. The giant catfish lives a tenuous existence in the murky waters of its native river, Southeast Asia’s Mekong, where its numbers have plummeted so dramatically that the species is on the brink of extinction."
       }
@@ -231,7 +231,7 @@
     "insects": [
       {
         "id": "21",
-        "name": "Rhinoceros Beetlea",
+        "name": "Rhinoceros Beetle",
         "family": "Scarabaeidae",
         "genus": "Trypoxylus",
         "species": "Trypoxylus dichotomus",
@@ -247,8 +247,8 @@
         "genus": "Polistes",
         "species": "Polistes carnifex",
         "habitat": "South America, Central America",
-        "photo": ": https://animal-base.herokuapp.com/images/category/insects/executioner-wasp.jpg",
-        "map": ": https://animal-base.herokuapp.com/images/category/insects/executioner-wasp.jpg",
+        "photo": "https://animal-base.herokuapp.com/images/category/insects/executioner-wasp.jpg",
+        "map": "https://animal-base.herokuapp.com/geojson/insects/executioner-wasp.json",
         "description": "Executioner wasps are known for its extremely painful and potent sting. The wasp is native to Central and South America. It is a very large yellow and brown paper wasp that establishes small colonies which build nests under the eaves of buildings or suspended from branches. Although not a particularly aggressive wasp species, it has garnered a reputation in many Latin American countries for its potent sting."
       },
       {
