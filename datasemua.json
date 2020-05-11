@@ -145,7 +145,7 @@
         "species": "Hippocampus histrix",
         "habitat": "Indo-Pasific",
         "photo": "https://animal-base.herokuapp.com/images/category/fish/spiny-seahorse.jpg",
-        "map": "https://animal-base.herokuapp.com/geojson/fish/spiny-seahorsek.geojson",
+        "map": "https://animal-base.herokuapp.com/geojson/fish/spiny-seahorse.geojson",
         "description": "Seahorses are truly unique, and not just because of their unusual equine shape. Unlike most other fish, they are monogamous and mate for life. Rarer still, they are among the only animal species on Earth in which the male bears the unborn young. Male seahorses are equipped with a brood pouch on their ventral, or front-facing, side. When mating, the female deposits her eggs into his pouch, and the male fertilizes them internally. He carries the eggs in his pouch until they hatch, then releases fully formed, miniature seahorses into the water."
       },
       {
@@ -156,7 +156,7 @@
         "species": "Amphiprion ocellaris",
         "habitat": "Pasific",
         "photo": "https://animal-base.herokuapp.com/images/category/fish/clown-fish.jpg",
-        "map": "https://animal-base.herokuapp.com/geojson/fish/occelaris-clown-fish.geojson",
+        "map": "https://animal-base.herokuapp.com/geojson/fish/clown-fish.geojson",
         "description": "Bright orange with three distinctive white bars, clown anemonefish are among the most recognizable of all reef-dwellers. Clownfish perform an elaborate dance with an anemone before taking up residence, gently touching its tentacles with different parts of their bodies until they are acclimated to their host. A layer of mucus on the clownfish's skin makes it immune to the fish-eating anemone's lethal sting. In exchange for safety from predators and food scraps, the clownfish drives off intruders and preens its host, removing parasites."
       },
       {
@@ -191,7 +191,7 @@
         "species": "Alligator mississippiensis",
         "habitat": "Florida, Louisiana",
         "photo": "https://animal-base.herokuapp.com/images/category/reptiles/american-aligator.jpg",
-        "map": "https://animal-base.herokuapp.com/geojson/reptiles/American-aligator.json",
+        "map": "https://animal-base.herokuapp.com/geojson/reptiles/american-aligator.json",
         "description": "American alligators reside nearly exclusively in the freshwater rivers, lakes, swamps, and marshes of the southeastern United States, primarily Florida and Louisiana. Adult alligators are apex predators critical to the biodiversity of their habitat. They feed mainly on fish, turtles, snakes, and small mammals. However, they are opportunists, and a hungry gator will eat just about anything, including carrion, pets and, in rare instances, humans."
       },
       {
