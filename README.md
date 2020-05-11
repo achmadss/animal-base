@@ -1,4 +1,4 @@
-# animal-base
+# Web Service Proyek Akhir PAPBL
 PROJEK PAPBL APLIKASI PEMBELAJARAN TENTANG HEWAN
 
 Link web service:
